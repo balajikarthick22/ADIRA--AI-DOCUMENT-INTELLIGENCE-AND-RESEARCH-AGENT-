@@ -1,0 +1,12 @@
+@"
+Company Policy Handbook
+
+Refund Policy
+Customers can request a refund within 30 days of purchase. Refunds are processed within 7 business days after the request is approved. Digital products are refundable only if they have not been downloaded.
+
+Shipping Policy
+Standard shipping takes 5 to 8 business days. Express shipping takes 2 business days and costs 15 dollars extra. Orders above 100 dollars ship free.
+
+Support Hours
+Customer support is available Monday to Friday, from 9 AM to 6 PM. Support is closed on public holidays.
+"@ | Set-Content docs\policy.txt

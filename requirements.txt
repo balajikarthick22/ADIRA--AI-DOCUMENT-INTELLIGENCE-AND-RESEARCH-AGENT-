@@ -1,0 +1,7 @@
+google-genai
+pydantic[email]
+python-dotenv
+chromadb
+pypdf
+langchain-text-splitters
+ddgs
